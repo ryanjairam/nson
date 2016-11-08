@@ -68,6 +68,11 @@ Nson allows you to handle this situation without having to manually do null chec
 ## Dependencies
 The Gson library is required for Nson to work.
 
+https://github.com/google/gson
+
+## Adding Nson to your project
+For the time being, add nson-1.0.jar (located in the target folder) to your project as a library.
+
 ## Serializing Java Objects
 __Nson.toJson([Java Object])__
 ```java
