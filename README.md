@@ -1,5 +1,5 @@
 # nson
-Nson is a Java plugin that allows you to define required and optional fields in the Java objects used for deserialization with the Gson library.
+Nson is a Java plugin that allows you to define required and optional fields in the Java objects used with the Gson library.
 
 [Why is this needed?](#why-is-this-needed)
 
